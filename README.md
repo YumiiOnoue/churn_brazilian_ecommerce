@@ -7,6 +7,12 @@ Este projeto tem como objetivo identificar a taxa de churn e analisar os princip
 Churn é definido como clientes que não realizam uma nova compra após um determinado período. Para essa análise, iremos usar o período de 180 dias (6 meses).
 
 # Tecnologias 
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
 
 # Resultados
 
